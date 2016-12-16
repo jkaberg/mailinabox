@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import base64, os, os.path, hmac
 
 from flask import make_response

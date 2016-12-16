@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # Tests sending and receiving mail by sending a test message to yourself.
 
 import sys, imaplib, smtplib, uuid, time

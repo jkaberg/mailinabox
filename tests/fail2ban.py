@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Test that a box's fail2ban setting are working
 # correctly by attempting a bunch of failed logins.
 #

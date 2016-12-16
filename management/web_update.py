@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Creates an nginx configuration file so we serve HTTP/HTTPS on all
 # domains for which a mail account has been set up.
 ########################################################################

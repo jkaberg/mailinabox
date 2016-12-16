@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
 # Runs SSLyze on the TLS endpoints of a box and outputs
 # the results so we can inspect the settings and compare

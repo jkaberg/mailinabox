@@ -1,4 +1,5 @@
 #!/bin/bash
+# -*- coding: utf-8 -*-
 # This script is run daily (at 3am each night).
 
 # Set character encoding flags to ensure that any non-ASCII

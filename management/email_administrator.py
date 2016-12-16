@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
 # Reads in STDIN. If the stream is not empty, mail it to the system administrator.
 

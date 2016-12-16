@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
 # This script performs a backup of all user data:
 # 1) System services are stopped.

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 # Utilities for installing and selecting SSL certificates.
 
 import os, os.path, re, shutil
